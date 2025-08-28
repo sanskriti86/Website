@@ -42,9 +42,13 @@ const Footer: React.FC = () => {
             <div>
       <h4 className="flex text-lg font-bold mb-2">Our Address</h4>
       <p className="text-gray-400 hover:text-webascend-cyan transition-colors">
-        Front lane of middle school,<br />
-        near Kendriya Vidyalaya,<br />
-        Harda, Madhya Pradesh
+       VILL FULDI PO REHATGAON
+<br />
+       TEHSIL REHATGAON DIST Harda
+<br />
+        461228
+<br />
+MADHYA PRADESH India <br />
       </p>
     </div>
           </div>
